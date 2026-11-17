@@ -15,8 +15,8 @@ I bring experience in operations leadership, team coordination, and process impr
 
 ## 💻 Selected Academic Projects
 
-### Delivery Route Optimization — Python
-Built a package delivery simulation using a custom hash table, routing logic, and time-based status tracking. The solution coordinated **40 packages across three trucks**, totaling **114.86 miles**.
+### Delivery Route Optimizer — Python
+[View the original route optimization portfolio project](https://github.com/Set877884/delivery-route-optimizer) (currently private). Built a separate Python routing simulation with a custom hash table, delivery time windows, vehicle capacities, sample data, and unit tests. My earlier academic project coordinated 40 packages across three trucks, totaling 114.86 miles.
 
 ### Hotel Application — Java, Spring Boot, Angular & Docker
 Worked on a full-stack hotel application with English/French localization, multiple currency displays, time-zone handling, and a multi-stage Docker build.
